@@ -8,7 +8,11 @@ Research Camp is one of Data Science Indonesia's events, held by its Reserch and
     3. Papers that use IFLS data:
         1. [All](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS/papers.html) IFLS Papers;
         2. [Financial Access to Poverty Reduction](https://pdfs.semanticscholar.org/6fb0/6a9953309911b585f9baee6504d7c92ad62c.pdf);
-        3. [Indonesian Muslim Household Financial Inclusion Profile](http://pkebs.feb.ugm.ac.id/wp-content/uploads/sites/449/2018/10/2017007.pdf).
+        3. [Indonesian Muslim Household Financial Inclusion Profile](http://pkebs.feb.ugm.ac.id/wp-content/uploads/sites/449/2018/10/2017007.pdf);
+        4. [Does Micro Finance Institution Improve Welfare?](http://ceds.feb.unpad.ac.id/wopeds/201307.pdf);
+        5. [An Empirical Risk Investigation of Risk Sharing among Indonesian Households](http://ceds.feb.unpad.ac.id/wopeds/201307.pdf);
+        6. [Indebtedness and Subjective Financial Wellbeing of Households in Indonesia](https://www.lpem.org/repec/lpe/efijnl/201607.pdf).
+
 
 2. For subtopic two, we will use a dataset from a study regarding morality and debt repayment in Indonesia: 
     1. [Paper](https://home.uchicago.edu/bursztyn/Moral_Incentives_20171029.pdf);
