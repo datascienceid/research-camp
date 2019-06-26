@@ -11,7 +11,9 @@ Research Camp is one of Data Science Indonesia's events, held by its Reserch and
         3. [Indonesian Muslim Household Financial Inclusion Profile](http://pkebs.feb.ugm.ac.id/wp-content/uploads/sites/449/2018/10/2017007.pdf);
         4. [Does Micro Finance Institution Improve Welfare?](http://ceds.feb.unpad.ac.id/wopeds/201307.pdf);
         5. [An Empirical Risk Investigation of Risk Sharing among Indonesian Households](http://ceds.feb.unpad.ac.id/wopeds/201307.pdf);
-        6. [Indebtedness and Subjective Financial Wellbeing of Households in Indonesia](https://www.lpem.org/repec/lpe/efijnl/201607.pdf).
+        6. [Indebtedness and Subjective Financial Wellbeing of Households in Indonesia](https://www.lpem.org/repec/lpe/efijnl/201607.pdf);
+        7. [The importance of precautionary saving motive among Indonesian households](https://mpra.ub.uni-muenchen.de/25189/1/MPRA_paper_25189.pdf);
+        8. [The Role of Family Networks and Gender on Borrowing Behavior in Indonesia](http://sci-hub.tw/http://muse.jhu.edu/article/440738).
 
 
 2. For subtopic two, we will use a dataset from a study regarding morality and debt repayment in Indonesia: 
@@ -23,7 +25,9 @@ Research Camp is one of Data Science Indonesia's events, held by its Reserch and
 
 Following are references that may be useful for analyzing financial inclusion in Indonesia:
 
-1. [World Bank](http://microdata.worldbank.org/index.php/catalog/3361) Global Financial Inclusion (Global Findex)
-2. [Pulse Lab Jakarta](https://medium.com/pulse-lab-jakarta/tagged/financial-inclusion)
+1. [World Bank](http://microdata.worldbank.org/index.php/catalog/3361) Global Financial Inclusion (Global Findex);
+2. [Pulse Lab Jakarta](https://medium.com/pulse-lab-jakarta/tagged/financial-inclusion);
+3. [Research Papers in Economics](https://ideas.repec.org/)
+4. [National Bureau of Economic Research](https://www.nber.org/)
 
 Any inquiries can be sent through [e-mail](mailto:research@datascience.or.id).
