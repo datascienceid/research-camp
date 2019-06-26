@@ -2,7 +2,9 @@
 
 Research Camp is one of Data Science Indonesia's events, held by its Reserch and Development's division. Following are links to the resources for each subtopic:
 
-1. [Indonesia Family Life Survey](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS/download.html).
+1. [Indonesia Family Life Survey](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS/download.html). IFLS is a longitudinal survey which has already 5 waves. For Research Camp, we will only use IFLS 5 -- which is cross-sectional.
+    1. [Questionnaire](http://smapp.rand.org/labor/family/software_and_data/FLS/IFLS/IFLS5/IFLS5_all_doc.zip);
+    2. [Dataset](http://smapp.rand.org/labor/family/software_and_data/FLS/IFLS/IFLS5/hh14_all_dta.zip).
 
 2. Morality and Debt Repayment: 
     1. [Paper](https://home.uchicago.edu/bursztyn/Moral_Incentives_20171029.pdf);
