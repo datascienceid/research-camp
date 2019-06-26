@@ -22,4 +22,4 @@ Following are references that may be useful for analyzing financial inclusion in
 1. [World Bank](http://microdata.worldbank.org/index.php/catalog/3361) Global Financial Inclusion (Global Findex)
 2. [Pulse Lab Jakarta](https://medium.com/pulse-lab-jakarta/tagged/financial-inclusion)
 
-Any inquiries can be sent through [e-mail](research@datascience.or.id).
+Any inquiries can be sent through [e-mail](mailto:research@datascience.or.id).
