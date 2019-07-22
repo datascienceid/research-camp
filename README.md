@@ -21,6 +21,9 @@ Research Camp is one of Data Science Indonesia's events, held by its Reserch and
     2. [Replication files](https://home.uchicago.edu/bursztyn/Moral%20Incentives_JPE2018_replication.zip);
     3. [Article: morality and credit card debt repayment in Indonesia (VoxDev)](https://voxdev.org/topic/finance/morality-and-credit-card-debt-repayment-indonesia)
 
+3. For subtopic four, we will use Twitter data, provided by [Drone Emprit](https://pers.droneemprit.id/). Following are the resources:
+    1. [Sample data](https://1drv.ms/u/s!AgEwnvgEHQCghK09K_FKwTxaqni0dQ?e=oTpVaa). Note that the actual data that will be used during the event will be more than this.
+
 # Other References
 
 Following are references that may be useful for analyzing financial inclusion in Indonesia:
